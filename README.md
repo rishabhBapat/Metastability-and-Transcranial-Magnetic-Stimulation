@@ -12,5 +12,3 @@ The data were preprocessed using the the MATLAB code in "preprocessing_TMS.mlx".
 "Efield_TMS.py" defines a set of ROIs that will be instantly phase reset by a TMS pulse, given an electric field simulation of that TMS pulse and a list of ROIS with their MNI coordinates as input. In this study, SimNIBS was used to simulate the TMS electric field.
 
 All other files take preprocessed EEG data as input and perform their respective analysis.
-
-If there are any questions regarding this code or the manuscript that uses it please address them to Rishabh Bapat.
