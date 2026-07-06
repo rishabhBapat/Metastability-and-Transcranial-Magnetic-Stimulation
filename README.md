@@ -1,7 +1,7 @@
 # Metastability and Transcranial Magnetic Stimulation
-This folder contains Python and MATLAB code associated with the manuscript "Using metastability to identify the global changes in dynamic working point of the brain following brain stimulation".
+This folder contains Python and MATLAB code associated with the manuscript "Using metastability to identify the global changes in dynamic working point of the brain following brain stimulation" (https://www.frontiersin.org/journals/neurorobotics/articles/10.3389/fnbot.2024.1336438/full).
 
-Overview
+# Overview
 
 The data were preprocessed using the the MATLAB code in "preprocessing_TMS.mlx". The input for this code is the directory containing the raw EEG files. There are separate cells to be run for preprocessing resting state and TMS-EEG data.
 
